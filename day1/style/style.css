@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    
+}
+body{
+    background-color:#172439;
+    color: #f8f8f8;
+    line-height:1.6;
+}
+h2{
+    margin: 20px 0;
+}
+header h1{
+    color: #ffcb74;
+}
+#header_image{
+    margin-top:10px;
+    max-width:100%;
+    height:auto;
+    border-radius:8px;
+}
+.note{
+    color:red;
+}
+tr, td,th{
+    color: #f8f8f8;
+    text-align: center;
+    padding: 8px;
+    
+}
+tr:hover{
+    background-color: #3d5b88;
+}
+table{
+    margin-bottom: 10px;
+    width:100%;
+    border:1px solid gray;
+}
+table th{
+    background: #04080e;
+    color: #ffcb74;
+}
+hr{
+    padding: 0;
+}

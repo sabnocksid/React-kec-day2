@@ -1,0 +1,11 @@
+css flexbox
+css grid
+
+
+
+project name
+react
+js
+cd folder_name
+npm install
+npm run dev
